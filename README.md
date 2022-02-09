@@ -1,16 +1,7 @@
-# new_team4_app
+# CREDIT-M
+더조은 컴퓨터아카데미 빅데이터 플랫폼 개발 양성 스마트 과정 3번째 프로젝트
 
-A new Flutter project.
+## 목적
+카드회사 관리자들을 대상으로 고객의 신용카드 연체여부를 예측해주는 앱 개발
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Skills
