@@ -5,3 +5,12 @@
 카드회사 관리자들을 대상으로 고객의 신용카드 연체여부를 예측해주는 앱 개발
 
 ## Skills
+- Flutter & Dart
+- MySQL
+- jsp
+- json
+- Getx
+- NewsAPI(newsapi.org)
+- GoogleMapAPI
+- Firebase
+- Visual Studio Code
